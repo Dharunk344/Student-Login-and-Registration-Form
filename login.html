@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>login form</title>
+</head>
+<body>
+    
+<form onsubmit="redirectPage(event)">
+    <h1>Student Login</h1>
+   <label>Register Number</label>
+   <input type="text" placeholder="732123XXXX">
+   <br></br> 
+   <label>Password</label>
+   <input type="password" placeholder="Nandha1234#">
+   <br></br>
+   <button type="submit">Login</button>
+</form>
+<script>
+        function redirectPage(event) {
+            event.preventDefault();
+            window.location.href = "index1.html";
+        }
+    </script>
+</body>
+
+
+</html>
