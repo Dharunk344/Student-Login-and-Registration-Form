@@ -1,2 +1,21 @@
-# forms
-A responsive Student Login and Registration Form developed using HTML and CSS. Features a modern gold-and-dark gradient theme, responsive layouts, styled input fields, interactive buttons, and a student profile page. Designed to work across mobile, tablet, and desktop devices.
+# Student Login and Registration Form
+
+## About the Project
+This project is a responsive student login and registration website developed using HTML and CSS.
+
+## Features
+- Student Login Form
+- Student Registration Form
+- Student Profile Page
+- Responsive Design
+- Modern Gradient Background
+- Styled Input Fields and Buttons
+- CSS Hover and Focus Effects
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (for page redirection)
+
+## Developer
+Dharun Kumar S
